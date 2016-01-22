@@ -11,7 +11,7 @@ bin/cake server
 ```
 Open http://localhost:8765/bookmarks
 
-See more detail this at:
+See more details at:
 
 http://book.cakephp.org/3.0/en/tutorials-and-examples/bookmarks/intro.html
 
